@@ -1,2 +1,5 @@
 # sumo
-Sumobot
+
+Our sumobot project.
+
+sumo_arduino -> C++ platformio.
